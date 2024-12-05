@@ -1,6 +1,8 @@
-# Tugas Kelompok 1
+# Tugas Kelompok 2
 ## Analisis Numerik
 Kelas B - Kelompok 1 - 2024/2025 Gasal
+
+![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Anggota Kelompok
 | Nama Kelompok | NPM |
