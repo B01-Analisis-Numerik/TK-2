@@ -25,3 +25,6 @@ Kelas B - Kelompok 1 - 2024/2025 Gasal
 | `Evaluasi` | Hasil evaluasi untuk setiap metode pada polinomial derajat 9 yang digunakan pada `6_all-method.ipynb`. |
 
 ### Soal 2 - Numerical Integration
+| Dokumen | Deskripsi |
+| -- | -- |
+| [`1_adp_quadrature.m`](Soal%202/adp_quadrature.m) | Menghitung aproksimasi integral menggunakan metode adaptive quadrature dengan trapezoidal rule. |
