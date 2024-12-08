@@ -27,7 +27,8 @@ Kelas B - Kelompok 1 - 2024/2025 Gasal
 ### Soal 2 - Numerical Integration
 | Dokumen | Deskripsi |
 | -- | -- |
-| [`adp_quadrature.m`](Soal%202/adp_quadrature.m) | Menghitung aproksimasi integral menggunakan metode adaptive quadrature dengan trapezoidal rule. |
+| [`simpson.m`](Soal%202/simpson.m) | Menghitung aproksimasi integral menggunakan metode Composite Simpson. |
+| [`adp_quadrature.m`](Soal%202/adp_quadrature.m) | Menghitung aproksimasi integral menggunakan metode Adaptive Quadrature dengan trapezoidal rule. |
 | [`RepeatedTrapezoid.m`](Soal%202/RepeatedTrapezoid.m) | Menghitung aproksimasi integral dengan RepeatedTrapezoid (Composite Trapezoid) untuk digunakan di metode Romberg. |
 | [`Romberg1.m`](Soal%202/Romberg1.m) | Menghitung aproksimasi integral dengan Romberg General dengan pendekatan pencarian iterative error. (Untuk Nomer 2a)|
 | [`RombergExperiment.m`](Soal%202/RombergExperiment.m) | Menghitung aproksimasi integral dengan Romberg khusus eksperiment dengan pendekatan berbagai jumlah level table yang digunakan. (Untuk Nomer 2b)|
